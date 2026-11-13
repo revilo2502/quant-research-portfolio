@@ -1,0 +1,10 @@
+{
+  "n_steps": 33325,
+  "total_net_pnl": -0.86383319343587,
+  "cum_pnl_final": -0.8638331934358714,
+  "annualized_sharpe_approx": -524.4721389309216,
+  "hit_rate": 0.4817382759185456,
+  "turnover": 18571.0,
+  "avg_cost_per_trade": 0.00017157373089955638,
+  "baseline_momentum_total_pnl": -1.822416317376648
+}

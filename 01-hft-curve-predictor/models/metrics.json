@@ -1,0 +1,69 @@
+{
+  "feature_cols": [
+    "spread",
+    "micro_price",
+    "micro_minus_mid",
+    "obi_depth1",
+    "obi_depth3",
+    "obi_depth5",
+    "obi_depth10",
+    "ret_1",
+    "realized_vol_10",
+    "momentum_10",
+    "realized_vol_50",
+    "momentum_50",
+    "realized_vol_200",
+    "momentum_200",
+    "trade_flow",
+    "trade_flow_roll_10",
+    "trade_flow_roll_50",
+    "spread_roll_50"
+  ],
+  "results": [
+    {
+      "horizon": 1,
+      "dir_accuracy": 0.8470517629407351,
+      "naive_accuracy": 0.42337584396099026,
+      "ret_rmse": 7.321836134976646e-05,
+      "fit_time_sec": 4.335097074508667,
+      "n_train": 166625,
+      "n_test": 33325
+    },
+    {
+      "horizon": 5,
+      "dir_accuracy": 0.652093023255814,
+      "naive_accuracy": 0.45038259564891225,
+      "ret_rmse": 0.00031384599124216115,
+      "fit_time_sec": 6.086820125579834,
+      "n_train": 166625,
+      "n_test": 33325
+    },
+    {
+      "horizon": 10,
+      "dir_accuracy": 0.6027006751687922,
+      "naive_accuracy": 0.4731582895723931,
+      "ret_rmse": 0.0005498100085742594,
+      "fit_time_sec": 5.859345197677612,
+      "n_train": 166625,
+      "n_test": 33325
+    },
+    {
+      "horizon": 20,
+      "dir_accuracy": 0.5538184546136534,
+      "naive_accuracy": 0.4861815453863466,
+      "ret_rmse": 0.0008655582157842608,
+      "fit_time_sec": 5.6470441818237305,
+      "n_train": 166625,
+      "n_test": 33325
+    },
+    {
+      "horizon": 50,
+      "dir_accuracy": 0.5177794448612153,
+      "naive_accuracy": 0.5147786946736684,
+      "ret_rmse": 0.0014568891414525832,
+      "fit_time_sec": 5.831723928451538,
+      "n_train": 166625,
+      "n_test": 33325
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+/Users/oliverwilliams/Downloads/quant-portfolio/01-hft-curve-predictor/cpp/build/CMakeFiles/replay_engine.dir
+/Users/oliverwilliams/Downloads/quant-portfolio/01-hft-curve-predictor/cpp/build/CMakeFiles/edit_cache.dir
+/Users/oliverwilliams/Downloads/quant-portfolio/01-hft-curve-predictor/cpp/build/CMakeFiles/rebuild_cache.dir

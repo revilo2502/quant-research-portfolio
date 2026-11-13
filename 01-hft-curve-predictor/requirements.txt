@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+joblib
+# Optional (falls back to sklearn's HistGradientBoosting if not installed):
+# lightgbm
+# Optional (falls back to CSV if not installed):
+# pyarrow
+# Optional, only needed for the C++ ONNX inference path:
+# skl2onnx
+# onnxmltools
+# onnxruntime

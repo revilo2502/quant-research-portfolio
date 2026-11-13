@@ -1,0 +1,15 @@
+{
+  "python": {
+    "rows_processed": 49950,
+    "elapsed_sec": 0.03837341599864885,
+    "rows_per_sec": 1301682.3939197585,
+    "avg_latency_ns_per_row": 768.2365565295065
+  },
+  "cpp": {
+    "rows_processed": 50000.0,
+    "elapsed_sec": 0.162405,
+    "rows_per_sec": 307873.0,
+    "avg_latency_ns_per_row": 3248.09,
+    "checksum": 5156180.0
+  }
+}
