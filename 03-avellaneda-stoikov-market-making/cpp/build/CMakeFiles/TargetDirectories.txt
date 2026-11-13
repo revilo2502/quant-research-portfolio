@@ -1,0 +1,3 @@
+/Users/oliverwilliams/Downloads/quant-portfolio/03-avellaneda-stoikov-market-making/cpp/build/CMakeFiles/as_simulate.dir
+/Users/oliverwilliams/Downloads/quant-portfolio/03-avellaneda-stoikov-market-making/cpp/build/CMakeFiles/edit_cache.dir
+/Users/oliverwilliams/Downloads/quant-portfolio/03-avellaneda-stoikov-market-making/cpp/build/CMakeFiles/rebuild_cache.dir
